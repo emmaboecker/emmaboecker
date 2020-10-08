@@ -1,4 +1,7 @@
-<img align="left" alt="HACKERMANS" width="60px" src="https://camo.githubusercontent.com/a777a2bb8a8bd8d78b879e4b3d4c0c996acf2947/68747470733a2f2f63646e2e6265747465727474762e6e65742f656d6f74652f3562343930653733636634363739316638343931663666342f3378" />]
+<h1 align="center">
+<img src="https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/3x">
+  Hi there, I'm StckOverflw - [Website] ✌️
+<img src="https://cdn.betterttv.net/emote/5e51dba108b4447d56a94e24/3x"></h1>
 ### Hi there, I'm StckOverflw - [Website] ✌️
 
 [![Website](https://img.shields.io/website?label=StckOverflw.de&style=for-the-badge&url=https%3A%2F%2FStckOverflw.de)](https://StckOverflw.de)
