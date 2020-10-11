@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/StckOverflw?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStckOverflw&screen_name=StckOverflw)
 
 - 🌱 I’m currently learning everything 🤣
-- ✌️  I’m to dump to do anything 
+- ✌️  I'm too stupid for anything
 - 🙃 Stay Home, Stay Safe
 
 ### Connect with me:
