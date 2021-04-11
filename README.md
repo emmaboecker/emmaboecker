@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stckoverflw&label=Profile%20views&color=0e75b6&style=flat" alt="stckoverflw" /> </p>
 
-- 🔭 I’m currently working on [StckUtils](https://github.com/StckOverflw/StckUtils)
+- 🔭 I’m currently working on [StckUtils](https://github.com/StckOverflw/StckUtils) and [ConnectFour](https://github.com/l4zs/paper-connectfour)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
