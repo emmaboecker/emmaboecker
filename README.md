@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stckoverflw&label=Profile%20views&color=0e75b6&style=flat" alt="stckoverflw" /> </p>
 
-- 🔭 I’m currently working on [StckUtils](https://github.com/StckOverflw/StckUtils) and [ConnectFour](https://github.com/l4zs/paper-connectfour)
-
+- 🔭 I’m currently working on something
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/stckoverflw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="stckoverflw" height="30" width="40" /></a>
