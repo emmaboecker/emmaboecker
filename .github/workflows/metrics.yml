@@ -36,3 +36,4 @@ jobs:
           plugin_music_played_at: yes
           plugin_music_provider: spotify
           plugin_music_user: StckOverflw
+          plugin_music_token: ${{ secrets.MUSIC_TOKEN }}
