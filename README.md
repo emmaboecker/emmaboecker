@@ -15,3 +15,5 @@ I love [**Kotlin**](https://kotlinlang.org) and [**Gradle**](https://gradle.org/
 ### 🎶 Here are the last few songs that I listened to on Spotify 
 
 ![Spotify Stats](https://github.com/StckOverflw/StckOverflw/blob/main/github-metrics.svg)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E8D8V7H)
