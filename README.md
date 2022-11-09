@@ -2,11 +2,9 @@
 You can also call me Emma and I use **they/them** pronouns.
 
 ### 👤 About me
-I'm a passionate **Full-Stack Developer** with over **three years** of experience in different topics ranging from Minecraft Plugin/Mod Development and Discord Bots to creating Web-Applications. I've also been doing a bunch of freelance programming for a while now. \
+I'm a passionate **Full-Stack Developer** from Germany with over **three years** of experience in different topics ranging from Minecraft Plugin/Mod Development and Discord Bots to creating Web-Applications. I've also been doing a bunch of freelance programming for a while now. 
 
-I enjoy [Kotlin 💜](https://kotlinlang.org) and I'm beginning to really like [Rust 🦀](https://rustlang.org/) as well. 
-
-I'm also a big fan of Trains 🚄
+I enjoy [Kotlin 💜](https://kotlinlang.org) and [Rust 🦀](https://rustlang.org/) and I'm also a big fan of 🚄 Trains
 
 ### 💻 Technologies
 
