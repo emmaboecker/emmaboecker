@@ -13,6 +13,13 @@ I enjoy [Kotlin 💜](https://kotlinlang.org) and [Rust 🦀](https://rustlang.o
 - 📊 **DevOps:** [GitHub Actions](https://github.com/features/actions), [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Linux](https://en.wikipedia.org/wiki/Linux), [Prometheus](https://prometheus.io/), [InfluxDB](https://www.influxdata.com/)
 - 🛠 **Tools:** [Jetbrains IDE](https://www.jetbrains.com/), [Git](https://git-scm.com/), [Gradle](https://gradle.org/), [Yarn](https://yarnpkg.com/), [Grafana](https://grafana.com/)
 
+### 👀 Social Media
+You can find me on all these Platforms:
+
+- **Mastodon:** [@stck@chaos.social](https://chaos.social/@stck)
+- **Twitter:** [@StckOverflw](https://twitter.com/StckOverflw)
+- **Discord:** [StckOverflw#2665](https://discord.com/users/816989010836717599)
+
 ### 🎶 Here are the last few songs that I listened to on Spotify 
 
 ![Spotify Stats](https://github.com/StckOverflw/StckOverflw/blob/main/github-metrics.svg)
