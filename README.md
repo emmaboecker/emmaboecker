@@ -3,7 +3,7 @@ Online, people usually call me **stck** ([*[stæk]*](https://www.oxfordlearnersd
 
 ### 👤 About me
 I'm a passionate **Full-Stack Developer** from Germany with over **four years** of experience in different topics ranging from Minecraft Plugin/Mod Development and Discord Bots to creating Web-Applications, and more! I'm a huge advocate for Public Transport (especially Trains) 
-and a big Fan of Left Politics *(If you're German, right-winged you would probably call me ["linksgrün(rot)versifft"](https://www.spiegel.de/kultur/gesellschaft/rechte-sprache-warum-linksgruen-versifft-a-1252819.html))*
+and a big Fan of Left Politics *(If you're German and right-winged you would probably call me ["linksgrün(rot)versifft"](https://www.spiegel.de/kultur/gesellschaft/rechte-sprache-warum-linksgruen-versifft-a-1252819.html))*
 
 Recently I've been working on web projects with the focus on Public Transport. \
 If you're interested in German Public Transport take a look at [railboard](https://github.com/StckOverflw/railboard) and its backend [railboard-api](https://github.com/StckOverflw/railboard-api) which soon, everyone will be able to use to build their own projects with High-Quality Data from the German Train Service [Deutsche Bahn](https://deutschebahn.com). 
