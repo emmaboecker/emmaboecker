@@ -21,7 +21,7 @@ Some of the Technologies I often use & enjoy:
 ### 👀 Social Media
 You can find me on all these Platforms:
 
-- **Mastodon:** [@stck@chaos.social](https://chaos.social/@stck)
+- **Mastodon:** <a rel="me" href="https://chaos.social/@stck">[@stck@chaos.social](https://chaos.social/@stck)</a>
 - **Twitter:** [@StckOverflw](https://twitter.com/StckOverflw)
 - **Discord:** [StckOverflw#2665](https://discord.com/users/816989010836717599)
 
