@@ -1,5 +1,5 @@
- # Hey! I'm [StckOverflw](https://stckoverflw.net) 💖
-Online, people usually call me **stck** ([*[stæk]*](https://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/s/sta/stack/stack__us_1.ogg)) but you can also call me **Emma** and I use **they/them** pronouns (also kinda fine with **she/her**).
+ # Hey! I'm [Emma Böcker](https://www.boecker.dev) 💖
+ I use **they/them** pronouns, but I'm also fine with **she/her**.
 
 ### 👤 About me
 I'm a passionate **Full-Stack Developer** from Germany with over **four years** of experience in different topics ranging from Minecraft Plugin/Mod Development and Discord Bots to creating Web-Applications, and more! I'm a huge advocate for Public Transport (especially Trains) 
