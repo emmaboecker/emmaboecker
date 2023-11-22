@@ -2,7 +2,7 @@
  I use **they/them** pronouns, but I'm also fine with **she/her**.
 
 ### 👤 About me
-I'm a passionate **Full-Stack Developer** from germany with over **four years** of experience in different topics ranging from Minecraft Plugin/Mod Development and Discord Bots to creating Web-Applications, and more! Additionally, I do political activisim at [Linksjugend \['solid]](https://linksjugend-solid.de)
+I'm a passionate **Full-Stack Developer** from germany with over **four years** of experience in different topics ranging from Minecraft Plugin/Mod Development and Discord Bots to creating Web-Applications, and more! Additionally, I do political activisim at [Linksjugend ['solid]](https://linksjugend-solid.de)
 
 Recently I've been working on web projects with the focus on Public Transport. \
 If you're interested in German Public Transport take a look at [railboard](https://github.com/emmaboecker/railboard) and its backend [railboard-api](https://github.com/emmaboecker/railboard-api) which can be used to build projects with high-quality data from the German Train Service [Deutsche Bahn](https://deutschebahn.com). 
