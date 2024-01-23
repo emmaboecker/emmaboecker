@@ -20,7 +20,7 @@ Some of the Technologies I often use & enjoy:
 ### 👀 Social Media
 You can find me on all these Platforms:
 
-- **Mastodon:** <a rel="me" href="https://chaos.social/@boecker">[@stck@chaos.social](https://chaos.social/@boecker)</a>
+- **Mastodon:** <a rel="me" href="https://chaos.social/@boecker">[@boecker@chaos.social](https://chaos.social/@boecker)</a>
 - **Twitter:** [@EmmaBoecker](https://twitter.com/EmmaBoecker)
 - **Discord:** [emmadev](https://discord.com/users/816989010836717599)
 
