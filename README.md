@@ -5,7 +5,7 @@
 I'm a fullstack developer, activist and student from germany. development has sadly become a lower priority for me, but sometimes i still do reall cool things like
 - [Railboard](https://github.com/emmaboecker/railboard), a project for viewing station boards and journey information for german public transport, requiring me to reverse-engineer multiple apps by the "Deutsche Bahn", because their "[Open Data](https://data.deutschebahn.com/)" is a joke. With the knowledge I learned from this, I built the [Railboard API](https://github.com/emmaboecker/railboard-api), which makes this data more accessible for everyone to use in their project by providing a [documented api](https://api.rail.boecker.dev/docs) and api clients for the original APIs by DB.
 - [emmalink](https://github.com/emmaboecker/emmalink) a link shortening service with oauth support
-- [boecker.dev](https://boecker.dev), my own website, i made with astro
+- [boecker.dev](https://boecker.dev), my own website, made with astro
 - Participating in the past few Advent of Code Events. You can find my solutions for [AoC 2022](https://github.com/emmaboecker/aoc-2022), [AoC 2023](https://github.com/emmaboecker/aoc-2023) (and [AoC 2021](https://github.com/emmaboecker/aoc-2021)) in their respective repos.
 - I have recently began to really like [Nix(-Os)](https://nixos.org/). My configuration files are also publicly available [here](https://github.com/emmaboecker/dotfiles).
 - Sometimes I do Discord or Telegram Bots. Notably [iws](https://github.com/emmaboecker/iws-rs) for discord.
