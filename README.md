@@ -1,5 +1,5 @@
  # Hey! I'm [Emma Böcker](https://www.boecker.dev) 💜♥️
- I use **they/them** pronouns, but I'm also fine with **she/her**.
+ I use **they/them** and **it/its** pronouns, but I'm also fine with **she/her**.
 
 ### 👤 About me
 I'm a fullstack developer, activist and student from germany. development has sadly become a lower priority for me, but sometimes i still do reall cool things like
