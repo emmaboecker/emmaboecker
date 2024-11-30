@@ -17,7 +17,7 @@ I'm a fullstack developer, activist and student from germany. development has sa
     - [mod-installer](https://github.com/emmaboecker/mod-installer), a browser based installer for minecraft modpacks (which was my first proper full-stack app, making the code naturally really bad)
     - Other (sometimes silly) minecraft related things with less important stories: [minecraft-exporter](https://github.com/emmaboecker/minecraft-exporter), [TwitchControlsMinecraft](https://github.com/emmaboecker/TwitchControlsMinecraft), [ForceField](https://github.com/emmaboecker/ForceField), [rmvw](https://github.com/emmaboecker/rmvw), [imaginize](https://github.com/emmaboecker/imaginize), [TinyDamage](https://github.com/emmaboecker/TinyDamage)
  
-Something that is currently a higher priority for me is my role in the federal board at [Linksjugend \['solid\]](https://www.linksjugend-solid.de/) where I do politcal activism, to hopefully make the world a better place. some of my main topics there are digital policy, transport policy/urban planning and awareness, I also bring in a perspective of a student and queer person. 
+Something that is currently a hgith priority for me is my activism at [Linksjugend \['solid\]](https://www.linksjugend-solid.de/) to hopefully make the world a better place. some of my main topics there are digital policy, transport policy/urban planning and awareness, I also bring in a perspective of a student and queer person. 
 
 Another topic im dipping my toes in at the moment is networking (the bgp kinda thing).
 
