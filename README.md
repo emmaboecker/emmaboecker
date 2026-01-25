@@ -28,7 +28,7 @@ You can find me on all these Platforms:
 - **Matrix:** [@lou:boecker.dev](https://matrix.to/#/@lou:boecker.dev)
 - **Mastodon:** <a rel="me" href="https://chaos.social/@boecker">[@boecker@chaos.social](https://chaos.social/@boecker)</a>
 - **Telegram:** [@louboecker](https://t.me/louboecker)
-- **E-Mail:** [loubtw@boecker.dev](mailto:lou@boecker.dev)
+- **E-Mail:** [lou@boecker.dev](mailto:lou@boecker.dev)
 - **Discord:** [loubtw](https://discord.com/users/816989010836717599)
 
 ### 🎶 Here are the last few songs that I listened to on Spotify 
