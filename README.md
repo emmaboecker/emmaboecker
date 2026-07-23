@@ -26,7 +26,3 @@ You can find me on all these Platforms:
 - **Telegram:** [@louboecker](https://t.me/louboecker)
 - **E-Mail:** [lou@boecker.dev](mailto:lou@boecker.dev)
 - **Discord:** [loubtw](https://discord.com/users/816989010836717599)
-
-### 🎶 Here are the last few songs that I listened to on Spotify 
-
-![Spotify Stats](https://github.com/louboecker/louboecker/blob/main/github-metrics.svg)
