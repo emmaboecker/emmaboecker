@@ -1,4 +1,4 @@
- # Hey! I'm [Lou Böcker](https://www.boecker.dev) 💜♥️
+ # Hey! I'm [Lou Böcker](https://www.boecker.dev)
  I use **they/them** and **it/its** pronouns, but I'm also fine with **she/her**.
 
 ### 👤 About me
